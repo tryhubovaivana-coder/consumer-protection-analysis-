@@ -9,4 +9,4 @@ This document contains my core business hypothesis for financial market analysis
 ## 🔍 Key Areas to Explore
 1. The relationship between the speed of complaint resolution and the rate of repeat complaints for the same bank.
 2. Whether banks with a higher share of financial compensation to clients maintain a more stable customer base.
-3. 
+   
