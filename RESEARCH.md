@@ -1,13 +1,13 @@
-# Research Focus: Consumer Protection & Market Risks
+# Na co se zaměřuji: Ochrana lidí a nástrahy kolem peněz
 
-This document outlines the specific analytical questions and goals aimed at identifying unfair commercial practices and protecting consumers in the financial market.
+Tento text jednoduše vysvětluje, co přesně chci zjistit, abych pomohla chránit lidi před problémy s půjčkami a financemi.
 
-## 🎯 Core Research Goals
-* **Identify Unfair Practices:** Spot hidden risks, misleading terms, and unfair commercial practices in consumer loans and financial services.
-* **Product Analysis:** Analyze and compare banking vs. non-banking financial products to see where consumers are most vulnerable.
-* **Data-Driven Transparency:** Turn raw financial market data into clear insights that can help consumers make safer financial decisions.
+## 🎯 Hlavní cíle projektu
+* **Hledání skrytých háčků:** Chci odhalit pasti a nevýhodné podmínky, které se často schovávají u půjček a dalších služeb.
+* **Porovnání nabídek:** Chci se podívat na rozdíly mezi běžnými bankami a nebankovními firmami (ty, co často nabízejí různé "rychlé peníze"). Cílem je zjistit, u koho lidem hrozí největší nebezpečí.
+* **Jednoduché rady z čísel:** Chci vzít složitá data z trhu a udělat z nich jasné a srozumitelné informace. Díky tomu se budou moci lidé lépe a bezpečněji rozhodovat o svých penězích.
 
-## 🔍 Key Questions to Explore (Once Technical Skills are Applied)
-1. Which financial products (e.g., quick loans, credit cards) generate the highest number of consumer complaints?
-2. What are the most common hidden risks or unfair terms found in non-banking financial contracts?
-3. How do banking and non-banking sectors compare in terms of consumer dispute resolution?
+## 🔍 Na jaké otázky chci najít odpověď (až se s daty naučím pracovat)
+1. Na co si lidé nejčastěji stěžují? Jsou to spíše rychlé půjčky, nebo třeba kreditní karty?
+2. Jaké jsou ty nejčastější "chytáky" ve smlouvách od nebankovních firem?
+3. Když má zákazník nějaký problém, jak ho řeší banka a jak nebankovní firma? Jaký je v tom rozdíl?
