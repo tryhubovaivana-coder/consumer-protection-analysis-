@@ -20,4 +20,3 @@ Pokud aktuálně procházíte insolvencí a obáváte se o své bezpečí, můž
 1. **Žádné peníze „na ruku“:** V insolvenci nesmíte nikomu platit hotově doma. Pokud vás někdo navštíví, odkažte ho výhradně na svého přiděleného insolvenčního správce.
 2. **Utajení adresy u soudu:** Máte-li strach z nevyžádaných návštěv, napište svému insolvenčnímu soudu a oficiálně požádejte o skrytí adresy pro veřejnost.
 3. **Pomoc Policie ČR:** Nikdo nemá právo vám vyhrožovat nebo narušovat váš klid. V případě jakéhokoliv nátlaku nebo pocitu ohrožení okamžitě volejte linku 158.
-4. 
