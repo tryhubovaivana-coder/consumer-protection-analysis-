@@ -1,21 +1,21 @@
-# Consumer Protection Analysis (Ochrana spotřebitele)
+# Analýza ochrany spotřebitele (Consumer Protection Analysis)
 
-Welcome to my data research project! With 15 years of experience in the commercial sector, I am combining my market insights with modern data analytics to examine consumer protection and market fairness.
+Vítejte u mého datového výzkumného projektu! Své 15leté zkušenosti z komerčního sektoru nyní spojuji s moderní datovou analytikou. Chci se detailně podívat na ochranu spotřebitele a zhodnotit spravedlnost na trhu, zejména v oblasti bankovních a nebankovních produktů.
 
-## 🎯 Project Focus & Goals (Zaměření a cíle)
-* **Financial Products:** My main focus is on analyzing banking and non-banking products (loans, credits, consumer financial services).
-* **Fair Practices:** Researching and identifying unfair commercial practices or hidden risks for consumers.
-* **Data Decisions:** Using data analytics to turn raw numbers into useful insights for ethical business decisions.
+## 🎯 Zaměření a cíle projektu
+* **Finanční produkty:** Zaměřuji se především na analýzu půjček, úvěrů a dalších spotřebitelských finančních služeb.
+* **Férové praktiky:** Výzkum a identifikace nekalých obchodních praktik nebo skrytých rizik pro spotřebitele.
+* **Rozhodování na základě dat:** Využití datové analytiky k přeměně surových čísel na užitečné poznatky pro etická obchodní rozhodnutí.
 
-## 🛠️ Tools to be used (Nástroje, které využiji)
-* **SQL:** For extracting and filtering data from databases.
-* **Python:** For data cleaning and exploring relationships between variables.
-* **Power BI / Tableau:** For creating clear dashboards and interactive graphs.
+## 🛠️ Nástroje, které využiji
+* **SQL:** K extrakci a filtrování dat z databází.
+* **Python:** Pro čištění dat a zkoumání vztahů mezi proměnnými.
+* **Power BI / Tableau:** K vytváření přehledných dashboardů a interaktivních grafů.
 
-## 📈 Roadmap & Learning Journey (Moje cesta)
-* **Summer 2026:** Preparation, market research, and gathering public financial data.
-* **September 2026:** Joining the Data Analytics Bootcamp (retraining course).
-* **Autumn 2026:** Implementing SQL and Python scripts into this project.
+## 📈 Harmonogram a moje vzdělávací cesta
+* **Léto 2026:** Příprava, průzkum trhu a sběr veřejných finančních dat.
+* **Září 2026:** Zahájení online vzdělávání v oblasti datové analytiky u IBM.
+* **Podzim 2026:** Implementace SQL a Python skriptů do tohoto projektu.
 
 ---
-*Feel free to explore my research! Connecting business logic with data.*
+*Neváhejte prozkoumat můj výzkum! Spojuji byznysovou logiku s daty.*
