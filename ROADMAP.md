@@ -1,21 +1,21 @@
-# Project Roadmap & Learning Journey
+# Harmonogram projektu a vzdělávací cesta
 
-This document outlines my step-by-step progress as I develop my data analytics skills and apply them to consumer protection research.
+Tento dokument shrnuje můj postup krok za krokem při rozvoji dovedností v datové analytice a jejich využití ve výzkumu ochrany spotřebitele.
 
-## 📋 Phase 1: Preparation & Market Research (Summer 2026)
-* [x] Set up GitHub repository and project structure.
-* [ ] Conduct market research on unfair commercial practices in consumer financial services.
-* [ ] Explore and select public financial datasets for future analysis.
+## 📋 Fáze 1: Příprava a průzkum trhu (léto 2026)
+* [x] Vytvoření repozitáře na GitHubu a struktury projektu.
+* [ ] Průzkum trhu zaměřený na rizika a nástrahy ve spotřebitelských finančních službách.
+* [ ] Prozkoumání a výběr veřejných finančních datových sad pro budoucí analýzu.
 
-## 🎓 Phase 2: Data Analytics Bootcamp (September 2026)
-* [ ] Start the intensive retraining course in Data Analytics.
-* [ ] Master foundational concepts of data structuring and business intelligence.
+## 🎓 Fáze 2: Online vzdělávání u IBM (září 2026)
+* [ ] Zahájení kurzu v oblasti datové analytiky.
+* [ ] Osvojení základních konceptů strukturování dat a business intelligence.
 
-## 💻 Phase 3: Technical Implementation (Autumn 2026)
-* [ ] **SQL Integration:** Write queries to extract, filter, and clean the gathered financial data.
-* [ ] **Python Analysis:** Use Python libraries to explore relationships between variables and discover trends.
-* [ ] **Data Visualization:** Build interactive dashboards (Power BI / Tableau) to present insights clearly.
+## 💻 Fáze 3: Technická implementace (podzim 2026)
+* [ ] **Integrace SQL:** Psaní dotazů pro extrakci, filtrování a čištění nasbíraných finančních dat.
+* [ ] **Analýza v Pythonu:** Využití knihoven Pythonu k prozkoumání vztahů mezi proměnnými a hledání trendů.
+* [ ] **Vizualizace dat:** Vytvoření interaktivních dashboardů (Power BI / Tableau) pro srozumitelnou prezentaci poznatků.
 
-## 🚀 Phase 4: Project Completion & Insights
-* [ ] Finalize the consumer protection report based on the analyzed data.
-* [ ] Publish all scripts, dashboards, and final conclusions here on GitHub.
+## 🚀 Fáze 4: Dokončení projektu a poznatky
+* [ ] Dokončení závěrečné zprávy o ochraně spotřebitele na základě analyzovaných dat.
+* [ ] Zveřejnění všech skriptů, dashboardů a konečných závěrů zde na GitHubu.
