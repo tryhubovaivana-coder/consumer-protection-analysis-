@@ -40,3 +40,4 @@ Projekt je rozdělen do několika logických celků a případových studií, kt
 ---
 
 *Neváhejte prozkoumat můj výzkum! Spojuji byznysovou logiku s daty.*
+* 🐍 **`generate_data.py`** – Python skript, který automaticky generuje fiktivní datovou sadu 500 klientů (ve formátu .csv) navrženou přesně pro testování mých hypotéz.
