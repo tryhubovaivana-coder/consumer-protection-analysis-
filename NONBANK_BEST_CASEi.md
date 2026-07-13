@@ -23,7 +23,7 @@ Následující modelová situace ilustruje, jak bezpečný produkt pomáhá vyř
 
 > **Příklad z praxe:** Spotřebitel potřebuje **50 000 Kč** na nutnou opravu auta, které nutně potřebuje pro každodenní dojíždění do zaměstnání. Klasická banka ho však odmítne kvůli přísným interním tabulkám (např. z důvodu krátké doby v novém zaměstnání po zkušební době). Klient se proto obrátí na prověřenou nebankovní společnost s licencí ČNB.
 
-### Fáze 1: Transparentní sjednání (Žrádné chytáky)
+### Fáze 1: Transparentní sjednání (Zrádné chytáky)
 * **Jasná čísla:** Hned na úvodní stránce poskytovatele je k dispozici přehledná kalkulačka. Smlouva neobsahuje žádná drobná písmena ani skryté texty.
 * **Srozumitelná smlouva:** Dokumentace má rozsah pouhých 2 stran, je napsána srozumitelnou češtinou bez právnických kliček a striktně **neobsahuje** žádné rizikové rozhodčí doložky.
 
