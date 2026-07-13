@@ -19,3 +19,5 @@ Tento dokument shrnuje můj postup krok za krokem při rozvoji dovedností v dat
 ## 🚀 Fáze 4: Dokončení projektu a poznatky
 * [ ] Dokončení závěrečné zprávy o ochraně spotřebitele na základě analyzovaných dat o úvěrových produktech.
 * [ ] Zveřejnění všech skriptů, dashboardů a konečných závěrů zde na GitHubu.
+* [x] Příprava fiktivní datové sady v Pythonu pro okamžitý start SQL analýz na podzim.
+* [ ] 
